@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B65CC7BE-7BE4-4472-9D00-A29A29D0B5F6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB689FB3-E92F-4FBF-AC27-3878DD8F137E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "youtubeManagerSibers/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D875439-50F4-49C3-9D4F-52869102AB59"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "youtubeManagerSibers/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64067BB8-13FF-4A25-8AD8-D4291A9140B9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "youtubeManagerSibers/Controller/VideoTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "64067BB8-13FF-4A25-8AD8-D4291A9140B9 - 4a921e434e9c6a56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "youtubeManagerSibers.VideoTableViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "youtubeManagerSibers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslanabbasov/Downloads/youtubeManagerSibers-main/youtubeManagerSibers/Controller/VideoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "2933">
+               </Location>
+               <Location
+                  uuid = "64067BB8-13FF-4A25-8AD8-D4291A9140B9 - 4a921e434e9c6a56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "youtubeManagerSibers.VideoTableViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "youtubeManagerSibers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslanabbasov/Downloads/youtubeManagerSibers-main/youtubeManagerSibers/Controller/VideoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "9435">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C11537F7-EDF9-44F1-910E-D93B47454701"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "youtubeManagerSibers/Controller/VideoTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C11537F7-EDF9-44F1-910E-D93B47454701 - 4a921e434e9c69b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "youtubeManagerSibers.VideoTableViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "youtubeManagerSibers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslanabbasov/Downloads/youtubeManagerSibers-main/youtubeManagerSibers/Controller/VideoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1047">
+               </Location>
+               <Location
+                  uuid = "C11537F7-EDF9-44F1-910E-D93B47454701 - 4a921e434e9c69b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "youtubeManagerSibers.VideoTableViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "youtubeManagerSibers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslanabbasov/Downloads/youtubeManagerSibers-main/youtubeManagerSibers/Controller/VideoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "9427">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2F2D5FB-1000-4B85-907D-14EF7F2131BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "youtubeManagerSibers/Model/Video.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "CodingKeys"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "C2F2D5FB-1000-4B85-907D-14EF7F2131BE - c33016ef4ca9bed4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "youtubeManagerSibers.Snippet.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;youtubeManagerSibers.Snippet.CodingKeys&gt;"
+                  moduleName = "youtubeManagerSibers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslanabbasov/Downloads/youtubeManagerSibers-main/youtubeManagerSibers/Model/Video.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "C2F2D5FB-1000-4B85-907D-14EF7F2131BE - 21e4b4ae49fcfc4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "youtubeManagerSibers.Snippet.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "youtubeManagerSibers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslanabbasov/Downloads/youtubeManagerSibers-main/youtubeManagerSibers/Model/Video.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "153">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
